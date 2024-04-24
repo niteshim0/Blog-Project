@@ -5,6 +5,7 @@ import Select from "./Select";
 import PostCard from "./PostCard";
 import Login from "./Login";
 import Signup from "./SignUp";
+import RTE from "./RTE";
 
 
-export { Button, Logo, Input, Select ,PostCard , Login,Signup};
+export { Button, Logo, Input, Select ,PostCard , Login,Signup,RTE};
